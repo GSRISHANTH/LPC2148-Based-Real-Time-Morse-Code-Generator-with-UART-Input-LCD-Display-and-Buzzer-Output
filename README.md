@@ -49,6 +49,9 @@ Working
  Simulation
 The entire system is designed and tested in Proteus using a Virtual Terminal for input. The LCD shows Morse code output, and the buzzer simulates audio signals.
 
+Circuit Diagram
+CIRCUIT DIAGRAM.png
+
 Applications
 - Morse code communication systems  
 - Embedded systems learning  
